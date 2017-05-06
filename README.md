@@ -1,6 +1,8 @@
 JSEN 
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/jsen.svg)](https://greenkeeper.io/)
+
 [![Build][travis-img]][travis-url] [![Coverage][coveralls-img]][coveralls-url] [![Downloads][downloads-img]][npm-url]
 
 [![NPM][npm-img]][npm-url]
